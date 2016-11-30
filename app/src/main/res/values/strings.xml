@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food Hygiene Ratings App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_label">Search for Hygiene Ratings</string>
+    <string name="name_label">Business Name:</string>
+    <string name="postcode_label">Postcode:</string>
+    <string name="location_label">Current Location:</string>
+    <string name="name_text"></string>
+    <string name="name_button">Search</string>
+    <string name="postcode_button">Search</string>
+    <string name="current_location_button">Search</string>
+    <string name="most_recent_label">Most Recent:</string>
+    <string name="most_recent_button">Search</string>
+    <string name="clear_button">Clear</string>
+    <string name="maps_button">Maps Button</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
